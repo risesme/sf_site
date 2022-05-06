@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+}
+
+.block {
+  flex: 1 1 auto;
+}
+
+.block h2 {
+  color: green;
+}
+
+.block p {
+  font-style: italic;
+}
